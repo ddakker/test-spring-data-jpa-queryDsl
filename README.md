@@ -2,6 +2,8 @@
 
 Spring Data JPA & QueryDSL 셈플링
 
-## Gradle
+#### Gradle
 
-IDEA Project Import 후 gradle generateQueryDSL task 를 실행한다.
+- IDEA Project Import
+- gradle generateQueryDSL task Execute
+- gradle test task Execute
