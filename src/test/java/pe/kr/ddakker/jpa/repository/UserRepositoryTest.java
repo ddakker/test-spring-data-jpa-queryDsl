@@ -72,6 +72,7 @@ public class UserRepositoryTest {
         List<User> userList = userRepository.findByName("ddakker");
         assertEquals("갯수는", 1, userList.size());
     }
+
     /**
      * Spring Data JPA & QueryDSL Predicate 사용한다면
      */
