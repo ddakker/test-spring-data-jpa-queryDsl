@@ -90,7 +90,6 @@ public class UserRepositoryTest {
         }
     }
 
-
     /**
      * Spring Data JPA & QueryDSL 확장 기능을 이용한다면
      * @throws Exception
