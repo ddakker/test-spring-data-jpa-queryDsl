@@ -2,16 +2,16 @@ apply plugin: 'java'
 apply plugin: 'idea'
 
 ext {
-    javaVversion            = '1.8'
-    servletVersion          = '3.0.1'
-    springframeworkVersion  = '4.1.6.RELEASE'
-    hibernateJpaVersion        = '1.0.1.Final'
-    hibernateEntitymanagerVersion = '4.1.9.Final'
-    hibernateCommonsAnnotationsVersion = '4.0.1.Final'
-    hibernateValidatorVersion = '4.3.1.Final'
-    aspectjVersion = '1.6.8'
-    queryDslVersion = '3.2.0'
-    springDataJpaVersion = '1.8.0.RELEASE'
+    javaVversion                        = '1.8'
+    servletVersion                      = '3.0.1'
+    springframeworkVersion              = '4.1.6.RELEASE'
+    hibernateJpaVersion                 = '1.0.1.Final'
+    hibernateEntitymanagerVersion       = '4.1.9.Final'
+    hibernateCommonsAnnotationsVersion  = '4.0.1.Final'
+    hibernateValidatorVersion           = '4.3.1.Final'
+    aspectjVersion                      = '1.6.8'
+    queryDslVersion                     = '3.2.0'
+    springDataJpaVersion                = '1.8.0.RELEASE'
 }
 
 List loggerSlf4jAndLogback = [
