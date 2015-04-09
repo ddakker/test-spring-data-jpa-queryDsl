@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'idea'
 
 ext {
-    javaVversion            = '1.7'
+    javaVversion            = '1.8'
     servletVersion          = '3.0.1'
     springframeworkVersion  = '4.1.6.RELEASE'
     hibernateJpaVersion        = '1.0.1.Final'
